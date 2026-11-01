@@ -143,7 +143,6 @@ NASA indica que, salvo restricciones particulares, los datos de misiones liderad
 
 **Clave de alineación propuesta:** `(codigo_comuna, año-mes de observación)`. Para predecir el mes `m`, la secuencia de homicidios y la imagen más reciente deberán haberse observado a más tardar al cierre de `m-1`, considerando también el retraso real de publicación del satélite.
 
-> **Pendiente para aprobar la Propuesta:** descargar una muestra real del producto NASA, verificar sus términos y aportar **10 uniones reales** entre recorte satelital y conteo mensual. La fuente y la clave están identificadas, pero la prueba de acoplamiento **aún no está realizada**. Ver [`ANEXOS_FASE1.md`](./ANEXOS_FASE1.md).
 
 ## 8. Riesgos y responsabilidad
 
